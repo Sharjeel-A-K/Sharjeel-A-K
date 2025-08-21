@@ -6,7 +6,7 @@ Graduated with a **Master’s in Electrical Engineering from Sapienza University
 ---
 
 ### 🔧 Skills & Tools  
-- **Programming & Data**: Python, R, SQL, Pandas, Power BI  
+- **Programming & Data**: Python, R, SQL, C++, Pandas, Power BI  
 - **Simulation & Design**: MATLAB/Simulink, OpenDSS, PTC Creo, PLECs, Pspice
 - **Hardware & Systems**: Raspberry Pi, PLCs, SCADA, Power Electronics  
 - **Soft Skills**: Problem Solving, Communication, Teamwork, Critical Thinking  
@@ -17,14 +17,15 @@ Graduated with a **Master’s in Electrical Engineering from Sapienza University
 - 🔮 **SARIMA Forecasting Model** – Developed a predictive model for short-term power demand in distribution networks.  
 - ⚡ **Smart Grid Feeder Simulation (Sapienza University)** – Modeled a distribution feeder in OpenDSS, performed load flow and fault analysis.  
 - 📊 **SCADA Report Automation (K-Electric)** – Automated report generation with Python & Power BI, reducing manual work and errors.  
-- 🎧 **Tour Communication Device (Let’s See Italy)** – Tested and validated a Raspberry Pi–based device to replace traditional radio systems.  
+- 🎧 **Tour Communication Device (Let’s See Italy)** – Tested and validated a Raspberry Pi–based device to replace traditional radio systems.
+- 📱 **Audio Guide App Development (STQRY Platform)** – Built and tested a customized mobile app for a touring company using the STQRY platform. Configured geofenced points with GPS coordinates to trigger location-based audio guides, tested app functionality in the field, and customized the layout for better user experience. Added multilingual audio options to improve accessibility for international tourists.
 
 
 ---
 
 ### 🌍 Languages  
 - English (C1/C2 – Proficient)  
-- Italian (A2 – Basic)  
+- Italian (A1 – Basic)  
 - Urdu (Native)  
 
 ---
@@ -33,22 +34,3 @@ Graduated with a **Master’s in Electrical Engineering from Sapienza University
 - 💼 [LinkedIn](https://www.linkedin.com/in/sharjeel-ahmed-khan-3234141b4)  
 - 📧 Email: sharjeelahmed88@yahoo.com
 - 📧 Email: khan.2051626@studenti.uniroma1.it
-
-
----
-✨ *Always curious about leveraging technology for smarter energy solutions.*  
-
-<!--
-**Sharjeel-A-K/Sharjeel-A-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
