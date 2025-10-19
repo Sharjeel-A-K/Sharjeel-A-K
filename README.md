@@ -6,7 +6,7 @@ Graduated with a **Master’s in Electrical Engineering from Sapienza University
 ---
 
 ### 🔧 Skills & Tools  
-- **Programming & Data**: Python, R, SQL, C++, Pandas, Power BI  
+- **Programming & Data**: Python, R, SQL, C++, Pandas, Power BI, Tableau  
 - **Simulation & Design**: MATLAB/Simulink, OpenDSS, PTC Creo, PLECs, Pspice
 - **Hardware & Systems**: Raspberry Pi, PLCs, SCADA, Power Electronics  
 - **Soft Skills**: Problem Solving, Communication, Teamwork, Critical Thinking  
@@ -19,6 +19,14 @@ Graduated with a **Master’s in Electrical Engineering from Sapienza University
 - 📊 **SCADA Report Automation (K-Electric)** – Automated report generation with Python & Power BI, reducing manual work and errors.  
 - 🎧 **Tour Communication Device (Let’s See Italy)** – Tested and validated a Raspberry Pi–based device to replace traditional radio systems.
 - 📱 **Audio Guide App Development (STQRY Platform)** – Built and tested a customized mobile app for a touring company using the STQRY platform. Configured geofenced points with GPS coordinates to trigger location-based audio guides, tested app functionality in the field, and customized the layout for better user experience. Added multilingual audio options to improve accessibility for international tourists.
+
+
+---
+
+## 📜 Certifications
+
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)  
+- [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 
 ---
